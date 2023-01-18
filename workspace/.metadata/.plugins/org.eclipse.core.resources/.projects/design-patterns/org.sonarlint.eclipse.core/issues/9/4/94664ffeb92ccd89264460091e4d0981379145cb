@@ -1,0 +1,16 @@
+
+`
+java:S1610"4Convert the abstract class "Game" into an interface.(ãîôËH­GRMINORZ
+CODE_SMELL
+i	java:S1064"9Replace this use of System.out or System.err by a logger.(ÿ½äÃùÿÿÿÿH²GRMAJORZ
+CODE_SMELL
+i	java:S106."9Replace this use of System.out or System.err by a logger.(ÚÖ‹ÁüÿÿÿÿH±GRMAJORZ
+CODE_SMELL
+i	java:S106:"9Replace this use of System.out or System.err by a logger.(©¬‘ŸûÿÿÿÿH³GRMAJORZ
+CODE_SMELL
+i	java:S106 "9Replace this use of System.out or System.err by a logger.(ÛËÄüÿÿÿÿH¯GRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÉ®ÇH®GRMAJORZ
+CODE_SMELL
+d	java:S106&"9Replace this use of System.out or System.err by a logger.(İüğH°GRMAJORZ
+CODE_SMELL

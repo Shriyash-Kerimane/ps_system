@@ -1,0 +1,20 @@
+
+i	java:S106-"9Replace this use of System.out or System.err by a logger.(¼©ÖÃıÿÿÿÿHøFRMAJORZ
+CODE_SMELL
+d	java:S106""9Replace this use of System.out or System.err by a logger.(ÍÒ¸çHÿFRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Îµğ¸HùFRMAJORZ
+CODE_SMELL
+i	java:S106/"9Replace this use of System.out or System.err by a logger.(–©ãŒûÿÿÿÿHöFRMAJORZ
+CODE_SMELL
+i	java:S106:"9Replace this use of System.out or System.err by a logger.(¼©ÖÃıÿÿÿÿHGRMAJORZ
+CODE_SMELL
+‡
+java:S1192"SDefine a constant instead of duplicating this literal "Your loan approved" 4 times.(¼©ÖÃıÿÿÿÿHúFRCRITICALZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¼©ÖÃıÿÿÿÿH‚GRMAJORZ
+CODE_SMELL
+d	java:S106<"9Replace this use of System.out or System.err by a logger.(“êñH€GRMAJORZ
+CODE_SMELL
+i	java:S106 "9Replace this use of System.out or System.err by a logger.(¼©ÖÃıÿÿÿÿH÷FRMAJORZ
+CODE_SMELL

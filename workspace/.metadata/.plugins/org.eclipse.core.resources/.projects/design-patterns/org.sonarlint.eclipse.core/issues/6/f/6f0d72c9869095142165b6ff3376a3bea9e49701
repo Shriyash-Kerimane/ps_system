@@ -1,0 +1,18 @@
+
+e
+java:S1854"9Remove this useless assignment to local variable "user2".(ûÜšŸHÁGRMAJORZ
+CODE_SMELL
+d
+java:S1854"8Remove this useless assignment to local variable "user".(Â×æHÂGRMAJORZ
+CODE_SMELL
+U
+java:S1481")Remove this unused "user" local variable.(Â×æHÃGRMINORZ
+CODE_SMELL
+V
+java:S1481"*Remove this unused "user2" local variable.(ûÜšŸHÅGRMINORZ
+CODE_SMELL
+i	java:S106
+"9Replace this use of System.out or System.err by a logger.(õš‡àúÿÿÿÿHÇGRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(×…ú±üÿÿÿÿHÈGRMAJORZ
+CODE_SMELL

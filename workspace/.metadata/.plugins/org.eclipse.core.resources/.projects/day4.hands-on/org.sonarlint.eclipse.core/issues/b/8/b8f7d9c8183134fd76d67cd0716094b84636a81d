@@ -1,0 +1,18 @@
+
+t
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÕË­ºHÉDRBLOCKERZBUG
+p
+java:S2147"DCombine this catch with the one at line 15, which has the same body.(ï­£ÄHÊDRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ž¨ØÎûÿÿÿÿHÌDRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ž¨ØÎûÿÿÿÿHÍDRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿHÎDRMAJORZ
+CODE_SMELL
+^
+java:S2093
+"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿHÏDRCRITICALZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(µ¿úøþÿÿÿÿHÑDRMAJORZ
+CODE_SMELL

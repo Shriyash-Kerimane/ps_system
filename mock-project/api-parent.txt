@@ -1,0 +1,5 @@
+<parent>
+    <groupId>com.demo</groupId>
+    <artifactId>banking-system</artifactId>
+    <version>1.0</version>
+  </parent>

@@ -1,0 +1,16 @@
+
+}
+java:S1192."GDefine a constant instead of duplicating this literal "Accept" 4 times.(«êöë8…™“º0HÃ=RCRITICALZ
+CODE_SMELL
+˜
+java:S1192w"bDefine a constant instead of duplicating this literal "server down..try after sometime.." 4 times.(†Ó‡¦8…™“º0HÈ=RCRITICALZ
+CODE_SMELL
+g
+java:S3740)"/Provide the parametrized type for this generic.( ¤ƒ“ÿÿÿÿÿ8°ªõ¹0HÍ=RMAJORZ
+CODE_SMELL
+r
+java:S2259]"FA "NullPointerException" could be thrown; "getBody()" can return null.(ÂØˆÿ8ŒÎŒ”º0HÎ=RMAJORZBUG
+w
+java:S2259n"FA "NullPointerException" could be thrown; "getBody()" can return null.(²…±ÿÿÿÿÿ8½£Ë“º0HÑ=RMAJORZBUG
+q
+java:S2259:"EA "NullPointerException" could be thrown; "userDTO" is nullable here.(¼°8¥àıô¹0HÔ=RMAJORZBUG

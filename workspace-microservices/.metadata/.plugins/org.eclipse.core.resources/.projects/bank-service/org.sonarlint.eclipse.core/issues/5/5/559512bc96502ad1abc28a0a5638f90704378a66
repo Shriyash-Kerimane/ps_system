@@ -1,0 +1,23 @@
+
+j
+java:S22597"EA "NullPointerException" could be thrown; "userDTO" is nullable here.(Ù¯ôÀHëERMAJORZBUG
+_
+java:S1481M".Remove this unused "response2" local variable.(õãã¢þÿÿÿÿHïERMINORZ
+CODE_SMELL
+n
+java:S1854M"=Remove this useless assignment to local variable "response2".(õãã¢þÿÿÿÿHñERMAJORZ
+CODE_SMELL
+‚
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿHòERMINORZ
+CODE_SMELL
+U
+java:S2140K")Use "java.util.Random.nextInt()" instead.(„·¯“HôERMINORZ
+CODE_SMELL
+j
+java:S2259K"EA "NullPointerException" could be thrown; "userDTO" is nullable here.(„·¯“HõERMAJORZBUG
+`
+java:S3740+"/Provide the parametrized type for this generic.(‰úÜÆùÿÿÿÿHùERMAJORZ
+CODE_SMELL
+[
+java:S3740T"/Provide the parametrized type for this generic.(ÃŽƒŒHúERMAJORZ
+CODE_SMELL

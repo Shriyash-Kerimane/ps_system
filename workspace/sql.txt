@@ -1,0 +1,20 @@
+insert into employee(empno,name,address,salary) values (100,"Alpha","Banglore",50000);
+insert into employee(empno,name,address,salary) values (101,"beta","Manglore",60000);
+insert into employee(empno,name,address,salary) values (102,"Gamma","Hyderabad",70000);
+insert into employee(empno,name,address,salary) values (103,"Delta","Chennai",80000);
+insert into employee(empno,name,address,salary) values (104,"Epsilon","Mumbai",90000);
+
+DELIMITER //
+
+
+
+CREATE PROCEDURE addBonus(IN eno int,IN sal double)
+BEGIN
+    UPDATE employee set salary=salary+sal where empno=eno;
+END //
+
+
+
+DELIMITER ;
+
+select e.name,e.salary,d.dname,d.manager from myemp e right outer join mydept d on e.dno=d.dno;

@@ -1,0 +1,14 @@
+
+S
+java:S1481"'Remove this unused "s2" local variable.(ã›‘ùH‡GRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(«£òïH‰GRMAJORZ
+CODE_SMELL
+b
+java:S1854"6Remove this useless assignment to local variable "s2".(ã›‘ùH†GRMAJORZ
+CODE_SMELL
+h
+java:S2209"5Change this instance-reference to a static reference.(«£òï8ˆ×ËØÈ0H§GRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‰ýáä8ˆ×ËØÈ0H©GRMAJORZ
+CODE_SMELL

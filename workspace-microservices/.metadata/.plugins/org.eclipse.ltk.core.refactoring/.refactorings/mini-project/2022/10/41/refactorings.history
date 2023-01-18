@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 7 elements from project &apos;mini-project&apos;&#x0D;&#x0A;- Original project: &apos;mini-project&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     mini-project/src/main/java&#x0D;&#x0A;     mini-project/src/main/resources&#x0D;&#x0A;     mini-project/src/test/java&#x0D;&#x0A;     target&#x0D;&#x0A;     HELP.md&#x0D;&#x0A;     mvnw&#x0D;&#x0A;     mvnw.cmd" description="Delete elements" element1="HELP.md" element2="mvnw" element3="mvnw.cmd" element4="target" element5="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element6="/src\/main\/resources=/maven.pomderived=/true=/" element7="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="4" stamp="1664774461497" subPackages="false" version="1.0"/>
+</session>

@@ -1,0 +1,14 @@
+command=C\:\\opt\\jdk-11\\bin\\javadoc.exe
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.text.DateFormat"><rhs name\="java.text.SimpleDateFormat"/></lhs><lhs name\="java.text.Format"><rhs name\="java.text.SimpleDateFormat"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.text.SimpleDateFormat"/></lhs><lhs name\="java.text.SimpleDateFormat"><rhs name\="java.text.SimpleDateFormat"/></lhs><lhs name\="org.springframework.http.HttpEntity"><rhs name\="org.springframework.http.ResponseEntity"/></lhs><lhs name\="org.springframework.http.ResponseEntity"><rhs name\="org.springframework.http.ResponseEntity"/></lhs><lhs name\="com.demo.spring.util.Message"><rhs name\="com.demo.spring.util.Message"/></lhs><lhs name\="com.demo.spring.entity.Statement"><rhs name\="com.demo.spring.entity.Statement"/></lhs><lhs name\="com.demo.spring.entity.CustomerDetailDTO"><rhs name\="com.demo.spring.entity.CustomerDetailDTO"/></lhs><lhs name\="com.demo.spring.entity.input.TransactionInput"><rhs name\="com.demo.spring.entity.input.TransactionInput"/></lhs><lhs name\="com.demo.spring.entity.Customer"><rhs name\="com.demo.spring.entity.Customer"/></lhs><lhs name\="com.demo.spring.entity.Users"><rhs name\="com.demo.spring.entity.Users"/></lhs><lhs name\="com.demo.spring.entity.input.TransferInput"><rhs name\="com.demo.spring.entity.input.TransferInput"/></lhs><lhs name\="com.demo.spring.entity.input.StatementInput"><rhs name\="com.demo.spring.entity.input.StatementInput"/></lhs><lhs name\="com.demo.spring.entity.input.AccountNumberInput"><rhs name\="com.demo.spring.entity.input.AccountNumberInput"/></lhs><lhs name\="com.demo.spring.dto.AccountDTO"><rhs name\="com.demo.spring.dto.AccountDTO"/></lhs><lhs name\="com.demo.spring.entity.RegisterInput"><rhs name\="com.demo.spring.entity.RegisterInput"/></lhs><lhs name\="com.demo.spring.dto.CredentialsDTO"><rhs name\="com.demo.spring.dto.CredentialsDTO"/></lhs><lhs name\="com.demo.spring.dto.CustomerDetailDTO"><rhs name\="com.demo.spring.dto.CustomerDetailDTO"/></lhs><lhs name\="com.demo.spring.entity.Account"><rhs name\="com.demo.spring.entity.Account"/></lhs><lhs name\="com.demo.spring.dto.CustomerDTO"><rhs name\="com.demo.spring.dto.CustomerDTO"/></lhs><lhs name\="com.demo.spring.dto.CustomerInput"><rhs name\="com.demo.spring.dto.CustomerInput"/></lhs></history>
+content_assist_number_of_computers=15
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+markOccurrences=false
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

@@ -1,0 +1,8 @@
+
+w
+java:S1192&"GDefine a constant instead of duplicating this literal "Accept" 4 times.(«êöëHØ¨RCRITICALZ
+CODE_SMELL
+q
+java:S2259X"FA "NullPointerException" could be thrown; "getBody()" can return null.(Çôì½üÿÿÿÿHÝ¨RMAJORZBUG
+l
+java:S2259O"AA "NullPointerException" could be thrown; "url" is nullable here.(¥«»éùÿÿÿÿHà¨RMAJORZBUG

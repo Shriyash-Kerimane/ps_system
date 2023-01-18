@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=spring-app1/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.demo.spring{Greet.java[Greet" modifiers="513" timestamp="1663051748679"/>
+    <typeInfo handle="=spring-app2/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.demo.spring.service{EmpDao.java[EmpDao" modifiers="513" timestamp="1663067395787"/>
+    <typeInfo handle="=assignment-sep13/C:\/training\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416\/jre\/lib\/jrt-fs.jar`java.desktop=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/maven.pomderived=/true=/&lt;java.awt.image(WritableRenderedImage.class[WritableRenderedImage" modifiers="1537" timestamp="1660150477780"/>
+    <typeInfo handle="=assignment-sep13/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.demo.spring{Writer.java[Writer" modifiers="513" timestamp="1663079411396"/>
+    <typeInfo handle="=aws-lamda/C:\/Users\/shrkerim\/.m2\/repository\/com\/amazonaws\/aws-lambda-java-core\/1.2.1\/aws-lambda-java-core-1.2.1.jar=/maven.pomderived=/true=/=/maven.groupId=/com.amazonaws=/=/maven.artifactId=/aws-lambda-java-core=/=/maven.version=/1.2.1=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;com.amazonaws.services.lambda.runtime(RequestHandler.class[RequestHandler" modifiers="1537" timestamp="1665140874953"/>
+</typeInfoHistroy>

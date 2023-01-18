@@ -1,0 +1,1 @@
+create table assignment(custId int primarykey, custName varchar(20), address varchar(20), accountNo int, balance double);

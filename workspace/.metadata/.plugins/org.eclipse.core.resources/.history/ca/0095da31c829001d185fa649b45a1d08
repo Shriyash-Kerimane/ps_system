@@ -1,0 +1,8 @@
+package com.demo.factory.ex1;
+
+public class MySingleTon {
+	
+	private MySingleTon singleton;
+	
+
+}

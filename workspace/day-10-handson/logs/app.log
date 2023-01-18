@@ -1,0 +1,82 @@
+2022-08-30 12:48:32,183 ERROR c.d.s.Account [main] Low Balance encountered
+2022-08-30 12:52:40,354 INFO c.d.s.Account [main] An Account object is created
+2022-08-30 12:52:40,355 INFO c.d.s.Account [main] Amount deposited
+2022-08-30 12:52:40,355 INFO c.d.s.Account [main] Amount deposited
+2022-08-30 12:52:40,358 INFO c.d.s.Account [main] Withdraw Successful
+2022-08-30 12:52:40,358 ERROR c.d.s.Account [main] Low Balance encountered
+2022-08-30 12:55:18,961 INFO c.d.s.Account [main] An Account object is created
+2022-08-30 12:55:18,963 INFO c.d.s.Account [main] Amount deposited
+2022-08-30 12:55:18,963 INFO c.d.s.Account [main] Amount deposited
+2022-08-30 12:55:18,964 INFO c.d.s.Account [main] Withdraw Successful
+2022-08-30 12:55:18,965 ERROR c.d.s.Account [main] Low Balance encountered {}
+com.demo.secondhalf.LowBalanceException: Balance is Low
+	at com.demo.secondhalf.Account.withdraw(Account.java:40) ~[classes/:?]
+	at com.demo.secondhalf.BankMain.main(BankMain.java:13) ~[classes/:?]
+2022-08-30 12:57:37,997 INFO c.d.s.Account [main] An Account object is created
+2022-08-30 12:57:37,999 INFO c.d.s.Account [main] Amount deposited
+2022-08-30 12:57:37,999 INFO c.d.s.Account [main] Amount deposited
+2022-08-30 12:57:38,001 INFO c.d.s.Account [main] Withdraw Successful
+2022-08-30 12:57:38,001 ERROR c.d.s.Account [main] withdraw is in error condition : {}
+com.demo.secondhalf.LowBalanceException: Balance is Low
+	at com.demo.secondhalf.Account.withdraw(Account.java:40) ~[classes/:?]
+	at com.demo.secondhalf.BankMain.main(BankMain.java:13) ~[classes/:?]
+2022-08-30 12:58:26,444 INFO c.d.s.Account [main] An Account object is created
+2022-08-30 12:58:26,446 INFO c.d.s.Account [main] Amount deposited
+2022-08-30 12:58:26,446 INFO c.d.s.Account [main] Amount deposited
+2022-08-30 12:58:26,448 INFO c.d.s.Account [main] Withdraw Successful
+2022-08-30 12:58:26,448 ERROR c.d.s.Account [main] withdraw is in error condition : {}
+com.demo.secondhalf.LowBalanceException: null
+	at com.demo.secondhalf.Account.withdraw(Account.java:40) ~[classes/:?]
+	at com.demo.secondhalf.BankMain.main(BankMain.java:13) ~[classes/:?]
+2022-08-30 13:00:29,262 INFO c.d.s.Account [main] An Account object is created
+2022-08-30 13:00:29,264 INFO c.d.s.Account [main] Amount deposited
+2022-08-30 13:00:29,264 INFO c.d.s.Account [main] Amount deposited
+2022-08-30 13:00:29,266 INFO c.d.s.Account [main] Withdraw Successful
+2022-08-30 13:00:29,266 ERROR c.d.s.Account [main] withdraw is in error condition : 
+com.demo.secondhalf.LowBalanceException: Balance is Low
+	at com.demo.secondhalf.Account.withdraw(Account.java:40) ~[classes/:?]
+	at com.demo.secondhalf.BankMain.main(BankMain.java:13) ~[classes/:?]
+2022-08-30 13:02:05,736 INFO c.d.s.Account [main] An Account object is created
+2022-08-30 13:02:05,738 INFO c.d.s.Account [main] Amount deposited
+2022-08-30 13:02:05,738 INFO c.d.s.Account [main] Amount deposited
+2022-08-30 13:02:05,739 INFO c.d.s.Account [main] Withdraw Successful
+2022-08-30 13:02:05,740 ERROR c.d.s.Account [main] withdraw is in error condition : 
+com.demo.secondhalf.LowBalanceException: Balance is Low
+	at com.demo.secondhalf.Account.withdraw(Account.java:40) ~[classes/:?]
+	at com.demo.secondhalf.BankMain.main(BankMain.java:13) ~[classes/:?]
+2022-08-30 13:02:35,337 INFO c.d.s.Account [main] An Account object is created
+2022-08-30 13:02:35,339 INFO c.d.s.Account [main] Amount deposited
+2022-08-30 13:02:35,340 INFO c.d.s.Account [main] Amount deposited
+2022-08-30 13:02:35,341 INFO c.d.s.Account [main] Withdraw Successful
+2022-08-30 13:02:35,341 ERROR c.d.s.Account [main] withdraw is in error condition : 
+com.demo.secondhalf.LowBalanceException: Balance is Low
+	at com.demo.secondhalf.Account.withdraw(Account.java:40) ~[classes/:?]
+	at com.demo.secondhalf.BankMain.main(BankMain.java:13) ~[classes/:?]
+2022-08-30 17:41:00,714 INFO c.d.s.Account [main] An Account object is created
+2022-08-30 17:41:00,717 INFO c.d.s.Account [main] Amount deposited
+2022-08-30 17:41:00,717 INFO c.d.s.Account [main] Amount deposited
+2022-08-30 17:41:00,719 INFO c.d.s.Account [main] Withdraw Successful
+2022-08-30 17:41:00,719 ERROR c.d.s.Account [main] withdraw is in error condition : 
+com.demo.secondhalf.LowBalanceException: Balance is Low
+	at com.demo.secondhalf.Account.withdraw(Account.java:40) ~[classes/:?]
+	at com.demo.secondhalf.BankMain.main(BankMain.java:13) ~[classes/:?]
+2022-08-30 17:42:50,825 ERROR c.d.s.Account [main] withdraw is in error condition : 
+com.demo.secondhalf.LowBalanceException: Balance is Low
+	at com.demo.secondhalf.Account.withdraw(Account.java:40) ~[classes/:?]
+	at com.demo.secondhalf.BankMain.main(BankMain.java:13) ~[classes/:?]
+2022-08-30 17:42:50,837 WARN c.d.s.Account [main] withdraw is in error condition : 
+com.demo.secondhalf.LowBalanceException: Balance is Low
+	at com.demo.secondhalf.Account.withdraw(Account.java:41) ~[classes/:?]
+	at com.demo.secondhalf.BankMain.main(BankMain.java:13) ~[classes/:?]
+2022-08-30 17:44:02,179 INFO c.d.s.Account [main] An Account object is created
+2022-08-30 17:44:02,181 INFO c.d.s.Account [main] Amount deposited
+2022-08-30 17:44:02,182 INFO c.d.s.Account [main] Amount deposited
+2022-08-30 17:44:02,184 INFO c.d.s.Account [main] Withdraw Successful
+2022-08-30 17:44:02,185 ERROR c.d.s.Account [main] withdraw is in error condition : 
+com.demo.secondhalf.LowBalanceException: Balance is Low
+	at com.demo.secondhalf.Account.withdraw(Account.java:40) ~[classes/:?]
+	at com.demo.secondhalf.BankMain.main(BankMain.java:13) ~[classes/:?]
+2022-08-30 17:44:02,201 WARN c.d.s.Account [main] withdraw is in error condition : 
+com.demo.secondhalf.LowBalanceException: Balance is Low
+	at com.demo.secondhalf.Account.withdraw(Account.java:41) ~[classes/:?]
+	at com.demo.secondhalf.BankMain.main(BankMain.java:13) ~[classes/:?]

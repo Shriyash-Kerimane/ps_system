@@ -1,0 +1,22 @@
+
+u
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿHDRMINORZ
+CODE_SMELL
+z
+java:S3655,"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ô—ß»ûÿÿÿÿHDRMAJORZBUG
+	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜŒáºøÿÿÿÿHDRMINORZ
+CODE_SMELL
+z
+java:S3655 "PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ô—ß»ûÿÿÿÿH‘DRMAJORZBUG
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìñ§„ùÿÿÿÿH’DRMINORZ
+CODE_SMELL
+{
+java:S16127"JReplace this lambda with method reference 'AccountNotFoundException::new'.(©ñïüÿÿÿÿH“DRMINORZ
+CODE_SMELL
+z
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ã”şÿÿÿÿÿH•DRMAJORZBUG
+‚
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.PathVariable'.(¹ûñÅşÿÿÿÿH–DRMINORZ
+CODE_SMELL
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¿ ÇşÿÿÿÿH˜DRMINORZ
+CODE_SMELL

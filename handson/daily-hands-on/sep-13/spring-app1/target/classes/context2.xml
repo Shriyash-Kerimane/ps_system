@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+	<bean id="name" class="com.demo.spring.Name"> <!-- Setter Injection -->
+		<property name="firstName" value="Alpha"></property>
+		<property name="LastName" value="Centauri"></property>
+
+	</bean>
+
+	<bean id="address" class="com.demo.spring.Address"> <!-- Setter Injection -->
+		<property name="city" value="Mumbai"></property>
+	</bean>
+
+	<bean id="emp" class="com.demo.spring.Emp">
+		<property name="empId" value="100"></property>
+		<property name="salary" value="10000"></property>
+		<property name="name" ref="name"></property>
+		<property name="address" ref="address"></property>
+	</bean>
+
+
+
+
+</beans>

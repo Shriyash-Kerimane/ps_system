@@ -1,0 +1,23 @@
+package com.demo.ex1;
+
+public class AddNum <T>{
+	
+	public AddNum(T n, T m) {
+		this.n = n;
+		this.m = m;
+	}
+
+
+
+	T n;
+	T m;
+	
+	
+
+	public static void main(String[] args) {
+		
+		AddNum hi = new AddNum<char>("hello", "world");
+
+	}
+
+}

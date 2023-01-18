@@ -1,0 +1,11 @@
+
+[	java:S108*")Either remove or fill this block of code.(å¥ž‡8µï²½0Hÿ=RMAJORZ
+CODE_SMELL
+{
+java:S3655:"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(õ¶Áh8»™ð½0H€>RMAJORZBUG
+|
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ÿ×¤8ÙÛ¹½0H>RMAJORZBUG
+|
+java:S3655'"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ÿ×¤8¥ÅÈ½0H‚>RMAJORZBUG
+
+java:S36559"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Úê»¼ýÿÿÿÿ8¥ÅÈ½0Hƒ>RMAJORZBUG

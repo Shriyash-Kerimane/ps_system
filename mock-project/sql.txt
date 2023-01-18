@@ -1,0 +1,34 @@
+create database accountdb;
+
+use accountdb;
+
+create table accounts (accountNumber integer primary key, accountType varchar(15), balance double, customerId integer , status varchar(15), branch varchar(15));
+
+create table statement (transactionId integer primary key,accountNumber integer, transactionType varchar(15), amount double, balance double, date varchar(15));
+
+create table customers (customerId integer primary key, customerName varchar(30), phoneNumber varchar(15), emailId varchar(40));
+
+create database credentialdb;
+
+use credentialdb;
+
+create table users(userid integer primary key, username varchar(30), password varchar(15),user varchar(15));
+
+
+insert into accounts (accountNumber,accountType,balance,customerId,status,branch) values (100000,'savings',10000.0,10000,'active','bangalore');
+insert into accounts (accountNumber,accountType,balance,customerId,status,branch) values (100001,'current',20000.0,10000,'active','mumbai'); 
+insert into accounts (accountNumber,accountType,balance,customerId,status,branch) values (100002,'salary',30000.0,10001,'deactive','hyderabad'); 
+
+insert into statement (transactionId,accountNumber,transactionType,amount,balance,date) values (1,100000,'withdraw',1000.0,9000.0,"2022-10-14");
+insert into statement (transactionId,accountNumber,transactionType,amount,balance,date) values (2,100001,'withdraw',1000.0,9000.0,"2022-10-15");
+insert into statement (transactionId,accountNumber,transactionType,amount,balance,date) values (3,100000,'deposit',1000.0,9000.0,"2022-10-16");
+
+insert into customers (customerId,customerName,phoneNumber,emailId) values (10000,'Shriyash','999999','shriyashkerimane284@gmail.com');
+insert into customers (customerId,customerName,phoneNumber,emailId) values (10001,'Pratamesh','888888','pratameshkerimane@everywhere.com');
+insert into customers (customerId,customerName,phoneNumber,emailId) values (10002,'Nagabhushan','777777','nagabhushankerimane@everywhere.com');
+
+insert into users values (10000,'Shriyash','root','customer');
+insert into users values (10001,'Pratamesh','root','customer');
+insert into users values (10002,'Nagabhushan','root','employee');
+
+customerId,customerName,password,phoneNumber,emailId,user

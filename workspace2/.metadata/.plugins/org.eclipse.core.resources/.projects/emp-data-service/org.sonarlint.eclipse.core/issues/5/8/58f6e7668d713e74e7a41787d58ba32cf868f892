@@ -1,0 +1,20 @@
+
+[
+java:S3740."/Provide the parametrized type for this generic.(é¿¹ñHñRMAJORZ
+CODE_SMELL
+l	java:S125!"<This block of commented-out lines of code should be removed.(è¶†‹øÿÿÿÿHòRMAJORZ
+CODE_SMELL
+l	java:S125/"<This block of commented-out lines of code should be removed.(¢›ªûùÿÿÿÿHûRMAJORZ
+CODE_SMELL
+w
+java:S4684@"@Replace this persistent entity with a simple POJO or DTO object.(®òß¡úÿÿÿÿHüRCRITICALZVULNERABILITY
+g	java:S125^"<This block of commented-out lines of code should be removed.(£ÆùŠHýRMAJORZ
+CODE_SMELL
+q
+java:S4684{"@Replace this persistent entity with a simple POJO or DTO object.(ÀúÁsH‚RCRITICALZVULNERABILITY
+
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.RequestMapping'.(ö»¿ëHƒRMINORZ
+CODE_SMELL
+ƒ
+java:S1128"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.(Ê™ÐÿûÿÿÿÿH…RMINORZ
+CODE_SMELL

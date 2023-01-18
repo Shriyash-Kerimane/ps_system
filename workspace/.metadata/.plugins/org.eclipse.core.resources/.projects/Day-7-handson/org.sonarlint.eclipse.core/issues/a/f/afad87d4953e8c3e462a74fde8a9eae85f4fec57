@@ -1,0 +1,15 @@
+
+T
+java:S1604
+"(Make this anonymous inner class a lambda(š×Œ÷H•ERMAJORZ
+CODE_SMELL
+b
+java:S1854
+"6Remove this useless assignment to local variable "g1".(š×Œ÷H–ERMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ª‘Ä‘H—ERMAJORZ
+CODE_SMELL
+S
+java:S1481
+"'Remove this unused "g1" local variable.(š×Œ÷H˜ERMINORZ
+CODE_SMELL

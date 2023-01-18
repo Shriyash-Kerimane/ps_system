@@ -1,0 +1,23 @@
+package com.demo.factory.ex1;
+
+public class MySingleTon {
+	
+	private MySingleTon singleton;
+	
+	private MySingleTon() {
+		
+		System.out.println("Singleton Instantiated");
+		
+	}
+	
+	public static MySingleTon instance() {
+		
+		if(singleton == null) {
+			MySingleTon singleton = new MySingleTon();
+			this.singleton=singleton;
+			return singleton;
+		}else {
+			return this.singleton;
+		}
+	}
+}

@@ -1,0 +1,11 @@
+
+{
+java:S3655:"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(õ¶Áh8»™ğ½0HÍRMAJORZBUG
+
+java:S36559"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Úê»¼ıÿÿÿÿ8¥ÅÈ½0HÎRMAJORZBUG
+[	java:S108*")Either remove or fill this block of code.(å¥‡8µï²½0HÏRMAJORZ
+CODE_SMELL
+|
+java:S3655'"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ÿ×¤8¥ÅÈ½0HĞRMAJORZBUG
+|
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ÿ×¤8ÙÛ¹½0HÑRMAJORZBUG

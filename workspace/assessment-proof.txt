@@ -1,0 +1,92 @@
+Started by user admin
+Running as SYSTEM
+Building in workspace C:\Users\shrkerim\.jenkins\workspace\assessment-question
+The recommended git tool is: NONE
+using credential bitbucket_id
+ > git.exe rev-parse --resolve-git-dir C:\Users\shrkerim\.jenkins\workspace\assessment-question\.git # timeout=10
+Fetching changes from the remote Git repository
+ > git.exe config remote.origin.url https://tools.publicis.sapient.com/bitbucket/scm/psiaug/assessment.git # timeout=10
+Fetching upstream changes from https://tools.publicis.sapient.com/bitbucket/scm/psiaug/assessment.git
+ > git.exe --version # timeout=10
+ > git --version # 'git version 2.37.1.windows.1'
+using GIT_ASKPASS to set credentials 
+ > git.exe fetch --tags --force --progress -- https://tools.publicis.sapient.com/bitbucket/scm/psiaug/assessment.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/Shriyash^{commit}" # timeout=10
+Checking out Revision 64f5687a1a41a9444990a3991fa2c52964512dec (refs/remotes/origin/Shriyash)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 64f5687a1a41a9444990a3991fa2c52964512dec # timeout=10
+Commit message: "Uploaded assessment files"
+ > git.exe rev-list --no-walk 64f5687a1a41a9444990a3991fa2c52964512dec # timeout=10
+Parsing POMs
+Established TCP socket on 63429
+[assignment-question] $ C:\opt\jdk-11/bin/java -cp C:\Users\shrkerim\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;C:\opt\apache-maven-3.8.6\boot\plexus-classworlds-2.6.0.jar;C:\opt\apache-maven-3.8.6/conf/logging jenkins.maven3.agent.Maven35Main C:\opt\apache-maven-3.8.6 C:\Users\shrkerim\.jenkins\war\WEB-INF\lib\remoting-4.13.3.jar C:\Users\shrkerim\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\shrkerim\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 63429
+<===[JENKINS REMOTING CAPACITY]===>channel started
+Executing Maven:  -B -f C:\Users\shrkerim\.jenkins\workspace\assessment-question\assignment-question\pom.xml clean compile test package
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------< com.demo.assessment:assignment-question >---------------
+[INFO] Building assignment-question 1.0
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ assignment-question ---
+[INFO] Deleting C:\Users\shrkerim\.jenkins\workspace\assessment-question\assignment-question\target
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ assignment-question ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\Users\shrkerim\.jenkins\workspace\assessment-question\assignment-question\src\main\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ assignment-question ---
+[INFO] Changes detected - recompiling the module!
+[WARNING] File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to C:\Users\shrkerim\.jenkins\workspace\assessment-question\assignment-question\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ assignment-question ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\Users\shrkerim\.jenkins\workspace\assessment-question\assignment-question\src\main\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ assignment-question ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ assignment-question ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\Users\shrkerim\.jenkins\workspace\assessment-question\assignment-question\src\test\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ assignment-question ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ assignment-question ---
+[INFO] No tests to run.
+[JENKINS] Recording test results
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ assignment-question ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\Users\shrkerim\.jenkins\workspace\assessment-question\assignment-question\src\main\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ assignment-question ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ assignment-question ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\Users\shrkerim\.jenkins\workspace\assessment-question\assignment-question\src\test\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ assignment-question ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ assignment-question ---
+[INFO] No tests to run.
+[INFO] Skipping execution of surefire because it has already been run for this configuration
+[JENKINS] Recording test results
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ assignment-question ---
+[INFO] Building jar: C:\Users\shrkerim\.jenkins\workspace\assessment-question\assignment-question\target\assignment-question-1.0.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.469 s
+[INFO] Finished at: 2022-08-18T19:56:52+05:30
+[INFO] ------------------------------------------------------------------------
+Waiting for Jenkins to finish collecting data
+[JENKINS] Archiving C:\Users\shrkerim\.jenkins\workspace\assessment-question\assignment-question\pom.xml to com.demo.assessment/assignment-question/1.0/assignment-question-1.0.pom
+[JENKINS] Archiving C:\Users\shrkerim\.jenkins\workspace\assessment-question\assignment-question\target\assignment-question-1.0.jar to com.demo.assessment/assignment-question/1.0/assignment-question-1.0.jar
+channel stopped
+Finished: SUCCESS

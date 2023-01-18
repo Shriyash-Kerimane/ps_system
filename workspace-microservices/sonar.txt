@@ -1,0 +1,7 @@
+token - squ_5f0176f4a6f67eb4ea7cc210c0d631457216df68
+
+sonar:sonar -Dsonar.host.url=http://localhost:9000 -Dsonar.login=the-generated-token
+
+prometheus.exe --config.file="prometheus.yml"
+
+clean org.jacoco:jacoco-maven-plugin:prepare-agent install

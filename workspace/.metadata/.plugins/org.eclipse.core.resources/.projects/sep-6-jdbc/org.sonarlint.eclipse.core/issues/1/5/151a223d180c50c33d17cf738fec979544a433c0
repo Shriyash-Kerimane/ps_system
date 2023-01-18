@@ -1,0 +1,9 @@
+
+o
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(±õóÑHìFRBLOCKERZBUG
+{
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(þ–„¬þÿÿÿÿHíFRBLOCKERZBUG
+i	java:S1064"9Replace this use of System.out or System.err by a logger.(ÌŒ´—úÿÿÿÿHîFRMAJORZ
+CODE_SMELL
+i	java:S1067"9Replace this use of System.out or System.err by a logger.(Ïöš–ÿÿÿÿÿHïFRMAJORZ
+CODE_SMELL

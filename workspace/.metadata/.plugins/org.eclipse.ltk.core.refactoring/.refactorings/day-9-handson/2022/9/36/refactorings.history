@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;pom.xml&apos; to &apos;day-9-handson/src/test/java&apos;&#x0D;&#x0A;- Original project: &apos;day-9-handson&apos;&#x0D;&#x0A;- Destination element: &apos;day-9-handson/src/test/java&apos;&#x0D;&#x0A;- Original element: &apos;pom.xml&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/" element1="pom.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1662014976349" units="0" version="1.0"/>
+</session>

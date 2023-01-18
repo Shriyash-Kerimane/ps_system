@@ -1,0 +1,41 @@
+
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ºÙ„½H–DRMAJORZ
+CODE_SMELL
+R
+java:S3864"!Remove this use of "Stream.peek".(ïÍ‰¿şÿÿÿÿH—DRMAJORZ
+CODE_SMELL
+}
+java:S1192"IDefine a constant instead of duplicating this literal "Banglore" 3 times.(ñ—¦ñıÿÿÿÿH…DRCRITICALZ
+CODE_SMELL
+R
+java:S3864"!Remove this use of "Stream.peek".(ïÍ‰¿şÿÿÿÿH˜DRMAJORZ
+CODE_SMELL
+L
+java:S3864%"!Remove this use of "Stream.peek".(¬‘ôJHDRMAJORZ
+CODE_SMELL
+{
+java:S1192"GDefine a constant instead of duplicating this literal "Mumbai" 3 times.(Ñ®ä¢ıÿÿÿÿH‰DRCRITICALZ
+CODE_SMELL
+~
+java:S1192"JDefine a constant instead of duplicating this literal "Hyderabad" 4 times.(œ«‚¡şÿÿÿÿHDRCRITICALZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Â„ı­H“DRMAJORZ
+CODE_SMELL
+i	java:S106'"9Replace this use of System.out or System.err by a logger.(Í‹‡‘ÿÿÿÿÿHŸDRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(×¡‘¿øÿÿÿÿH•DRMAJORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(×Ë DHšDRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ïÍ‰¿şÿÿÿÿH™DRMAJORZ
+CODE_SMELL
+i	java:S106 "9Replace this use of System.out or System.err by a logger.(˜­ø ÿÿÿÿÿH›DRMAJORZ
+CODE_SMELL
+i	java:S106$"9Replace this use of System.out or System.err by a logger.(´ğ«şÿÿÿÿHœDRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(İè¬øÿÿÿÿH”DRMAJORZ
+CODE_SMELL
+c	java:S106%"9Replace this use of System.out or System.err by a logger.(¬‘ôJHDRMAJORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(¸ØïUH’DRMAJORZ
+CODE_SMELL

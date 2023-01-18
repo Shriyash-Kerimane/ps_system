@@ -1,0 +1,17 @@
+package com.demo.factory.ex1;
+
+public class MySingleTon {
+	
+	private MySingleTon singleton;
+	
+	private MySingleTon() {
+		
+		System.out.println("Singleton Instantiated");
+		
+	}
+	
+	public MySingleTon instance() {
+		
+	}
+
+}

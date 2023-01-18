@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;spring-emp-mvc&apos; to &apos;spring-security-personal/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;spring-emp-mvc&apos;&#x0D;&#x0A;- Destination element: &apos;spring-security-personal/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;spring-emp-mvc&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move folder" destination="=spring-security-personal/src\/main\/resources=/maven.pomderived=/true=/" element1="target/m2e-wtp/web-resources/META-INF/maven/com.demo/spring-emp-mvc" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1664167066206" units="0" version="1.0"/>
+</session>

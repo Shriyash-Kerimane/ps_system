@@ -1,0 +1,19 @@
+
+n
+java:S2094"BRemove this empty class, write its code or make it an "interface".(‰Å–…HšERMINORZ
+CODE_SMELL
+n
+java:S2094"BRemove this empty class, write its code or make it an "interface".(ªÜŽšH›ERMINORZ
+CODE_SMELL
+a
+java:S1854"6Remove this useless assignment to local variable "i1".(á©¥>HœERMAJORZ
+CODE_SMELL
+g
+java:S1854"6Remove this useless assignment to local variable "i2".(Û»”ÄÿÿÿÿÿHERMAJORZ
+CODE_SMELL
+X
+java:S1481"'Remove this unused "i2" local variable.(Û»”ÄÿÿÿÿÿHžERMINORZ
+CODE_SMELL
+R
+java:S1481"'Remove this unused "i1" local variable.(á©¥>H ERMINORZ
+CODE_SMELL

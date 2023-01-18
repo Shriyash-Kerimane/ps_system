@@ -1,0 +1,12 @@
+
+~
+java:S1192:"IDefine a constant instead of duplicating this literal "response" 6 times.(´ßËŒøÿÿÿÿH¥©RCRITICALZ
+CODE_SMELL
+‡
+java:S1192}"RDefine a constant instead of duplicating this literal "statementResponse" 3 times.(í˜ÃıÿÿÿÿH¡©RCRITICALZ
+CODE_SMELL
+w
+java:S1192&"GDefine a constant instead of duplicating this literal "Accept" 6 times.(«êöëHš©RCRITICALZ
+CODE_SMELL
+l
+java:S2259{"AA "NullPointerException" could be thrown; "url" is nullable here.(İÊ£ÒøÿÿÿÿH¬©RMAJORZBUG

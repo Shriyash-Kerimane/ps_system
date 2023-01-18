@@ -1,0 +1,13 @@
+
+
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(æöÁﬁH∏FRMINORZVULNERABILITY
+ê
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Ûòï‘HπFRMINORZVULNERABILITY
+ê
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(‹“«ÆH∫FRMINORZVULNERABILITY
+ê
+java:S1989!"aHandle the following exceptions that could be thrown by "include": ServletException, IOException.(çœÜˇHªFRMINORZVULNERABILITY
+Ñ
+java:S1989'"PHandle the following exception that could be thrown by "sendError": IOException.(ÿ≠éæ˘ˇˇˇˇHºFRMINORZVULNERABILITY
+l	java:S125%"<This block of commented-out lines of code should be removed.(û•ÉÒ˘ˇˇˇˇHΩFRMAJORZ
+CODE_SMELL

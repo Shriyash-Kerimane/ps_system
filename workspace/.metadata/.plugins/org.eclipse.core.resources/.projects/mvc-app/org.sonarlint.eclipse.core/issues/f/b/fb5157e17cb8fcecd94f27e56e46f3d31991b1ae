@@ -1,0 +1,22 @@
+
+f
+java:S1161":Add the "@Override" annotation above this method signature(÷¤‹úHßFRMAJORZ
+CODE_SMELL
+ˆ
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(÷¤ÃHáFRMINORZVULNERABILITY
+
+java:S1989!"\Handle the following exception that could be thrown by "parseDouble": NumberFormatException.(…“Ï®úÿÿÿÿHâFRMINORZVULNERABILITY
+i	java:S106#"9Replace this use of System.out or System.err by a logger.(Í‹‡‘ÿÿÿÿÿHãFRMAJORZ
+CODE_SMELL
+
+java:S1989$"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(´íÍèHäFRMINORZVULNERABILITY
+r
+java:S2441)"MMake "List" and its parameters serializable or don't store it in the session.(è×‹°HåFRMAJORZBUG
+•
+java:S1989*"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(’şĞúÿÿÿÿHæFRMINORZVULNERABILITY
+ˆ
+java:S1989."YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(’ŞäºHçFRMINORZVULNERABILITY
+^
+java:S24410"9Make "Emp" serializable or don't store it in the session.(³³¡ıHèFRMAJORZBUG
+•
+java:S19891"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(×µšİşÿÿÿÿHéFRMINORZVULNERABILITY

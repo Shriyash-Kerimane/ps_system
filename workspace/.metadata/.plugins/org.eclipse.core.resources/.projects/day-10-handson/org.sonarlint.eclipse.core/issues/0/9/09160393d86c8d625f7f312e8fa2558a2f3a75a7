@@ -1,0 +1,42 @@
+
+`
+java:S3740	"/Provide the parametrized type for this generic.(µ¥ÿÅÿÿÿÿÿH¹DRMAJORZ
+CODE_SMELL
+`
+java:S3740	"/Provide the parametrized type for this generic.(µ¥ÿÅÿÿÿÿÿHºDRMAJORZ
+CODE_SMELL
+`
+java:S3740
+"/Provide the parametrized type for this generic.(ôõıÿÿÿÿH»DRMAJORZ
+CODE_SMELL
+`
+java:S3740
+"/Provide the parametrized type for this generic.(ôõıÿÿÿÿH¼DRMAJORZ
+CODE_SMELL
+`
+java:S3740#"/Provide the parametrized type for this generic.(Üå¦úÿÿÿÿH½DRMAJORZ
+CODE_SMELL
+`
+java:S3740#"/Provide the parametrized type for this generic.(Üå¦úÿÿÿÿH¾DRMAJORZ
+CODE_SMELL
+–
+java:S1149	"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(µ¥ÿÅÿÿÿÿÿH¿DRMAJORZ
+CODE_SMELL
+K
+java:S2119"Save and re-use this "Random".(üüßİşÿÿÿÿHÀDRCRITICALZBUG
+M
+java:S2129"!Remove this "Integer" constructor(ÔõÓÿHÁDRMAJORZ
+CODE_SMELL
+t
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ÔõÓÿHÂDRMAJORZ
+CODE_SMELL
+L
+java:S2129%" Remove this "String" constructor(äÂÊÔHÃDRMAJORZ
+CODE_SMELL
+˜
+java:S1130-"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿ØHÄDRMINORZ
+CODE_SMELL
+ƒ
+java:S21422"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ôù«»HÆDRMAJORZBUG
+d	java:S1063"9Replace this use of System.out or System.err by a logger.(ú§öŒHÇDRMAJORZ
+CODE_SMELL

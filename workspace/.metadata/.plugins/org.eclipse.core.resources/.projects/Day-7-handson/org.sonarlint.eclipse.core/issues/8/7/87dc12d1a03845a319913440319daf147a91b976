@@ -1,0 +1,10 @@
+
+ƒ
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€H£ERMAJORZBUG
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿH¢ERMAJORZ
+CODE_SMELL
+d	java:S106	"9Replace this use of System.out or System.err by a logger.(÷Û±êH¤ERMAJORZ
+CODE_SMELL
+v
+java:S2276
+"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8››ÑÏÈ0H¬ERBLOCKERZBUG

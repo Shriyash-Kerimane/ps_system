@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.demo.app.TestMailMocks
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0 sec <<< FAILURE!
+com.demo.app.TestMailMocks.testMessageWithMock()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "com.demo.app.Message.getBody()" because "this.message" is null
+	at com.demo.app.TestMailMocks.testMessageWithMock(TestMailMocks.java:20)
+

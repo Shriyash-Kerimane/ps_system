@@ -1,0 +1,36 @@
+
+`
+java:S1854"5Remove this useless assignment to local variable "s".(øæÆLHÓERMAJORZ
+CODE_SMELL
+k
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(¾³ý)HÙERMINORZ
+CODE_SMELL
+‡
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(®³ŠñHàERMINORZ
+CODE_SMELL
+R
+java:S1481"&Remove this unused "p" local variable.(–´«„H×ERMINORZ
+CODE_SMELL
+Q
+java:S1481"&Remove this unused "c" local variable.(¾³ý)HÜERMINORZ
+CODE_SMELL
+R
+java:S1481"&Remove this unused "f" local variable.(®³ŠñHáERMINORZ
+CODE_SMELL
+~
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(–´«„HÖERMINORZ
+CODE_SMELL
+a
+java:S1854"5Remove this useless assignment to local variable "f".(®³ŠñHÒERMAJORZ
+CODE_SMELL
+Q
+java:S1481"&Remove this unused "s" local variable.(øæÆLHÞERMINORZ
+CODE_SMELL
+a
+java:S1854"5Remove this useless assignment to local variable "p".(–´«„HÕERMAJORZ
+CODE_SMELL
+`
+java:S1854"5Remove this useless assignment to local variable "c".(¾³ý)HÔERMAJORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(¾³ý)HÛERMAJORZ
+CODE_SMELL

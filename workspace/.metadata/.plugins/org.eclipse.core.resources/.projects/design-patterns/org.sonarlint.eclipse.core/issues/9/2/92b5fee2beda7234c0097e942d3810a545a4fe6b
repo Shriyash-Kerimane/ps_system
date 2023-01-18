@@ -1,0 +1,16 @@
+
+q
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ûâŒ˜H´GRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÉ®ÇH·GRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÛËÄüÿÿÿÿH¸GRMAJORZ
+CODE_SMELL
+d	java:S106#"9Replace this use of System.out or System.err by a logger.(İüğH¹GRMAJORZ
+CODE_SMELL
+i	java:S106+"9Replace this use of System.out or System.err by a logger.(ÚÖ‹ÁüÿÿÿÿHºGRMAJORZ
+CODE_SMELL
+i	java:S1061"9Replace this use of System.out or System.err by a logger.(ÿ½äÃùÿÿÿÿH»GRMAJORZ
+CODE_SMELL
+i	java:S1067"9Replace this use of System.out or System.err by a logger.(©¬‘ŸûÿÿÿÿH¼GRMAJORZ
+CODE_SMELL

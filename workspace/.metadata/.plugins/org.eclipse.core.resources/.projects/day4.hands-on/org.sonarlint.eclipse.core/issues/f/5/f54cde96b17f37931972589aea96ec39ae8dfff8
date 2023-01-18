@@ -1,0 +1,13 @@
+
+b
+java:S1854"7Remove this useless assignment to local variable "num".(³˜ÓHHØDRMAJORZ
+CODE_SMELL
+S
+java:S1481"(Remove this unused "num" local variable.(³˜ÓHHÙDRMINORZ
+CODE_SMELL
+l	java:S125
+"<This block of commented-out lines of code should be removed.(½ð’ôùÿÿÿÿHÛDRMAJORZ
+CODE_SMELL
+M
+java:S1116"Remove this empty statement.(ôŸŽìúÿÿÿÿHÜDRMINORZ
+CODE_SMELL

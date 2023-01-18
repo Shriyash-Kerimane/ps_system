@@ -1,0 +1,27 @@
+
+i	java:S106J"9Replace this use of System.out or System.err by a logger.(•·ûõûÿÿÿÿH¿RMAJORZ
+CODE_SMELL
+{
+java:S4488 "JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(×–’‹ÿÿÿÿÿHÀRMINORZ
+CODE_SMELL
+y
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÕÔÊøûÿÿÿÿHÂRMINORZ
+CODE_SMELL
+v
+java:S4488C"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¤®†—HÄRMINORZ
+CODE_SMELL
+t
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(™ÔÛòHÆRMINORZ
+CODE_SMELL
+l
+java:S18544";Remove this useless assignment to local variable "empList".(Í¶Ì»ýÿÿÿÿHÈRMAJORZ
+CODE_SMELL
+]
+java:S14814",Remove this unused "empList" local variable.(Í¶Ì»ýÿÿÿÿHÉRMINORZ
+CODE_SMELL
+y
+java:S4488="HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÃäÓìÿÿÿÿÿHËRMINORZ
+CODE_SMELL
+t
+java:S4488."HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ä¹¥ HÍRMINORZ
+CODE_SMELL

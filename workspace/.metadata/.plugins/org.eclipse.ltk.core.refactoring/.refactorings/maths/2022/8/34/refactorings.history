@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;maths&apos; to &apos;com.demo.maths&apos;&#x0D;&#x0A;- Original project: &apos;maths&apos;&#x0D;&#x0A;- Original element: &apos;maths/src/test/java/maths&apos;&#x0D;&#x0A;- Renamed element: &apos;maths/src/test/java/com.demo.maths&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;maths&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;maths" name="com.demo.maths" qualified="false" references="true" stamp="1660665367134" textual="false" version="1.0"/>
+</session>

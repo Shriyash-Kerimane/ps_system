@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=C\:\\workspace2\\jenkins-git\\jenkins-docker-cicd\\.git;
+GitRepositoriesView.GitDirectories.relative=jenkins-git\\jenkins-docker-cicd\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
